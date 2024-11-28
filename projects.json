@@ -1,7 +1,6 @@
 [
     {
         "name": "Pizza Bot",
-        "position": "project-1",
         "info": {
             "image": "/images/projects-logo/PizzaBot-logo.png",
             "background-color": "red",
