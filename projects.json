@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pizza Bot",
+        "position": "project-1",
+        "info": {
+            "image": "/images/projects-logo/PizzaBot-logo.png",
+            "background-color": "red",
+            "description": "PizzaBot, un bot Discord nato nel 2022, offre un'esperienza di gioco e socializzazione completa. Con giochi come Snake, Fight e Tris, un'economia virtuale con lavori e oggetti, e strumenti di moderazione avanzati, PizzaBot arricchisce le conversazioni su Discord, rendendole più divertenti e coinvolgenti."
+        },
+        "links": {
+            "website": "/images/projects-logo/DotMusic-logo.png",
+            "discord": "black"
+        }
+    },
+    {
+        "name": "Dot Music",
+        "info": {
+            "image": "/images/projects-logo/DotMusic-logo.png",
+            "background-color": "black",
+            "description": "In assenza di una descrizione riccio è gay"
+        },
+        "links": {
+            "website": "/images/projects-logo/DotMusic-logo.png",
+            "discord": "black"
+        }
+    }
+]
