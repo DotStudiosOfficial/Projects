@@ -1,4 +1,4 @@
-Copyright (c) 2024 DotStudios SRL
+Copyright (c) 2024 DotStudios
 
 Moral rights:
   - Mr.energetico
