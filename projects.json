@@ -1,26 +1,18 @@
 [
     {
         "name": "Pizza Bot",
-        "info": {
-            "image": "PizzaBot-logo.png",
-            "background-color": "red",
-            "description": "PizzaBot, un bot Discord nato nel 2022, offre un'esperienza di gioco e socializzazione completa. Con giochi come Snake, Fight e Tris, un'economia virtuale con lavori e oggetti, e strumenti di moderazione avanzati, PizzaBot arricchisce le conversazioni su Discord, rendendole più divertenti e coinvolgenti."
-        },
-        "links": {
-            "website": "DotMusic-logo.png",
-            "discord": "black"
-        }
+        "image": "PizzaBot-logo.png",
+        "background-color": "red",
+        "description": "PizzaBot, un bot Discord nato nel 2022, offre un'esperienza di gioco e socializzazione completa. Con giochi come Snake, Fight e Tris, un'economia virtuale con lavori e oggetti, e strumenti di moderazione avanzati, PizzaBot arricchisce le conversazioni su Discord, rendendole più divertenti e coinvolgenti."
+        "website": "DotMusic-logo.png",
+        "discord": "black"
     },
     {
-        "name": "Dot Music",
-        "info": {
-            "image": "DotMusic-logo.png",
-            "background-color": "black",
-            "description": "Non è presente nessuna descrizione! "
-        },
-        "links": {
-            "website": "DotMusic-logo.png",
-            "discord": "black"
-        }
+    "name": "Dot Music",
+    "image": "DotMusic-logo.png",
+    "background-color": "black",
+    "description": "Non è presente nessuna descrizione! "
+    "website": "DotMusic-logo.png",
+    "discord": "black"
     }
 ]
