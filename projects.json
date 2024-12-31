@@ -29,7 +29,7 @@
         "name": "Shield",
         "info": {
             "image": "Shield.png",
-            "background-color": "purple",
+            "background-color": "#5b2c8a",
             "miniDescription": "Shield is a security bot.",
             "description": "Shield is a security bot that based on the powerful team with many skills in a few years they want to bring it to great results."
         },
