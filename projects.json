@@ -37,5 +37,18 @@
             "website": "shield.dotstudios.net",
             "discord": "https://discord.gg/5HU8pHqqX4"
         }
+    },
+    {
+        "name": "Dot Music",
+        "info": {
+            "image": "DotMusic-logo.png",
+            "backgroundColor": "black",
+            "miniDescription": "Music discord bot",
+            "description": "Non è presente nessuna descrizione! "
+        },
+        "links": {
+            "website": "DotMusic-logo.png",
+            "discord": "black"
+        }
     }
 ]
