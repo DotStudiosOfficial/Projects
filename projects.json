@@ -24,5 +24,18 @@
             "website": "DotMusic-logo.png",
             "discord": "black"
         }
+    },
+    {
+        "name": "Hell Studios",
+        "info": {
+            "image": "DotMusic-logo.png",
+            "backgroundColor": "#FFB280",
+            "miniDescription": "Moderation Discord Bot",
+            "description": "Il progetto nasce nel 2024, con le basi di un altra applicazione fallita nel 2023, per dare a tutte le community un bot utile nella gestione e nella moderazione della propria community, con integrazioni popolari e custom, una delle più grandi è ZYNKO, un social media."
+        },
+        "links": {
+            "website": "DotMusic-logo.png",
+            "discord": "black"
+        }
     }
 ]
