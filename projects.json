@@ -24,18 +24,5 @@
             "website": "DotMusic-logo.png",
             "discord": "black"
         }
-    },
-    {
-        "name": "Shield",
-        "info": {
-            "image": "Shield.png",
-            "backgroundColor": "#5b2c8a",
-            "miniDescription": "Security bot.",
-            "description": "Shield is a security bot that based on the powerful team with many skills in a few years they want to bring it to great results."
-        },
-        "links": {
-            "website": "shield.dotstudios.net",
-            "discord": "https://discord.gg/5HU8pHqqX4"
-        }
     }
 ]
