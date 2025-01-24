@@ -1,6 +1,7 @@
 [
     {
         "name": "Pizza Bot",
+        "type": "discordbot",
         "info": {
             "image": "PizzaBot-logo.png",
             "backgroundColor": "red",
@@ -14,6 +15,7 @@
     },
     {
         "name": "Dot Music",
+        "type": "discordbot",
         "info": {
             "image": "DotMusic-logo.png",
             "backgroundColor": "black",
@@ -27,6 +29,7 @@
     },
     {
         "name": "Hell Bot",
+        "type": "discordbot",
         "info": {
             "image": "HellStudios.png",
             "backgroundColor": "#FFB280",
