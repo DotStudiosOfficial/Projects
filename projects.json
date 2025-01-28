@@ -8,10 +8,16 @@
             "miniDescription": "Minigame discord bot",
             "description": "PizzaBot, launched on May 27, 2022, offers advanced server analytics, basic moderation, autorole, ticketing, and more. It stands out with fully customizable games, advanced profiles, reaction triggers, an integrated economy, and AI-powered features like message translation and question answering. To explore all features, visit the official website. For support, join our Discord server. Add PizzaBot today for a unique server experience!"
         },
-        "links": {
-            "website": "DotMusic-logo.png",
-            "discord": "black"
-        }
+        "links": [
+            [
+                ["website"],
+                ["https://pizza-bot.com/"]
+            ],
+            [
+                ["discord"],
+                ["https://discord.gg/YvUJWRaQ"]
+            ]
+        ]
     },
     {
         "name": "Dot Music",
@@ -22,10 +28,16 @@
             "miniDescription": "Music discord bot",
             "description": "DotMusic is an advanced music discord bot with search-history, musical suggestions, time-control and more..."
         },
-        "links": {
-            "website": "DotMusic-logo.png",
-            "discord": "black"
-        }
+        "links": [
+            [
+                ["website"],
+                ["website"]
+            ],
+            [
+                ["discord"],
+                [""]
+            ]
+        ]
     },
     {
         "name": "Hell Bot",
@@ -36,9 +48,15 @@
             "miniDescription": "Moderation Discord Bot",
             "description": "The project was born in 2024, with the foundations of another application that failed in 2023, to give all communities a bot useful in managing and moderating their community, with popular and custom integrations, one of the largest is ZYNKO, a social media."
         },
-        "links": {
-            "website": "HellStudios.png",
-            "discord": "black"
-        }
+        "links": [
+            [
+                ["website"],
+                ["https://67800155b4f08.site123.me/"]
+            ],
+            [
+                ["discord"],
+                ["https://discord.gg/YZSNeykp"]
+            ]
+        ]
     }
 ]
