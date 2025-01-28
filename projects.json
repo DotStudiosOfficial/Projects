@@ -10,12 +10,12 @@
         },
         "links": [
             [
-                ["website"],
-                ["https://pizza-bot.com/"]
+                "website",
+                "https://pizza-bot.com/"
             ],
             [
-                ["discord"],
-                ["https://discord.gg/YvUJWRaQ"]
+                "discord",
+                "https://discord.gg/YvUJWRaQ"
             ]
         ]
     },
@@ -30,12 +30,12 @@
         },
         "links": [
             [
-                ["website"],
-                ["website"]
+                "website",
+                "website"
             ],
             [
-                ["discord"],
-                [""]
+                "discord",
+                ""
             ]
         ]
     },
@@ -50,12 +50,12 @@
         },
         "links": [
             [
-                ["website"],
-                ["https://67800155b4f08.site123.me/"]
+                "website",
+                "https://67800155b4f08.site123.me/"
             ],
             [
-                ["discord"],
-                ["https://discord.gg/YZSNeykp"]
+                "discord",
+                "https://discord.gg/YZSNeykp"
             ]
         ]
     }
